@@ -11,8 +11,8 @@
 
     /* ==========variables for font-familys========= */
     
-    --font-family-base: Helvetica Neue, Helvetica, Arial, sans-serif; 
-    --font-family-title: var(--font-family-base)
+    --font-family-base: "Helvetica Neue", Helvetica, Arial, sans-serif; 
+    --font-family-title: var(--font-family-base);
 
     
     /* =======fvariables for font size============ */
